@@ -1,6 +1,7 @@
 Script started on 2024-10-24 20:29:02+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
 [?2004h]0;quanmh@Ubuntu: ~[01;32mquanmh@Ubuntu[00m:[01;34m~[00m$ ls -l
-[?2004ltotal 36
+[?2004l
+total 36
 drwxr-xr-x 3 quanmh quanmh 4096 Oct 24 20:27 [0m[01;34mDesktop[0m
 drwxr-xr-x 2 quanmh quanmh 4096 Sep 19 13:27 [01;34mDocuments[0m
 drwxr-xr-x 2 quanmh quanmh 4096 Oct 23 13:16 [01;34mDownloads[0m
@@ -12,14 +13,18 @@ drwx------ 6 quanmh quanmh 4096 Oct 23 12:31 [01;34msnap[0m
 drwxr-xr-x 2 quanmh quanmh 4096 Sep 19 13:27 [01;34mTemplates[0m
 drwxr-xr-x 2 quanmh quanmh 4096 Sep 19 13:27 [01;34mVideos[0m
 [?2004h]0;quanmh@Ubuntu: ~[01;32mquanmh@Ubuntu[00m:[01;34m~[00m$ pwd
-[?2004l/home/quanmh
+[?2004l
+/home/quanmh
 [?2004h]0;quanmh@Ubuntu: ~[01;32mquanmh@Ubuntu[00m:[01;34m~[00m$ cd ./Desktop
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ ls -l
-[?2004ltotal 8
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ ls -l
+[?2004l
+total 8
 -rw-rw-r-- 1 quanmh quanmh 2996 Oct 23 13:00 lab2.py
 drwx------ 2 quanmh quanmh 4096 Oct 23 21:57 [0m[01;34mtask3.tar.[0m
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab2.py
-[?2004lTask 1
+[?2004l
+Task 1
 Investigate a nested directory and draw its structure
 Your task directory is "ZyVth"!
 Good luck!
@@ -47,7 +52,8 @@ Task 3
 You have to extract the archive task3.tar.gz
 and find a secret text.
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ tree -d ZyVth
-[?2004l[01;34mZyVth[0m
+[?2004l
+[01;34mZyVth[0m
 ├── [01;34mCDmKe[0m
 │   ├── [01;34mbedWk[0m
 │   │   ├── [01;34mFWMNv[0m
@@ -65,19 +71,27 @@ and find a secret text.
 
 15 directories
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ ls -l
-[?2004ltotal 16
+[?2004l
+total 16
 -rw-rw-r-- 1 quanmh quanmh 2996 Oct 23 13:00 lab2.py
 drwx------ 2 quanmh quanmh 4096 Oct 23 21:57 [0m[01;34mtask3.tar.[0m
 -rw-rw-r-- 1 quanmh quanmh  254 Oct 24 20:29 [01;31mtask3.tar.gz[0m
 drwxrwxr-x 4 quanmh quanmh 4096 Oct 24 20:29 [01;34mZyVth[0m
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/ThhYO/Tqkan/XyEes
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/ThhYO/Tqkan/XyEes[K[K[K[K[KIU8TJ
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/ThhYO/Tqkan/IU8TJ[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KGzrxV/wRj[Ko7h/CY9fC
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/wRo7h/CY9fC[K[K[K[K[KmVjem
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/wRo7h/mVjem[K[K[K[K[K[K[K[K[K[K[K[K[K[KxV/k3Wti/E6wim[K[Kym
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/k3Wti/E6wym[K[K[K[K[KEg1NV
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ tree -d yRsn6
-[?2004l[01;34myRsn6[0m
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/ThhYO/Tqkan/XyEes[K[K[K[K[KIU8TJ
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/ThhYO/Tqkan/IU8TJ[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KGzrxV/wRj[Ko7h/CY9fC
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/wRo7h/CY9fC[K[K[K[K[KmVjem
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/wRo7h/mVjem[K[K[K[K[K[K[K[K[K[K[K[K[K[KxV/k3Wti/E6wim[K[Kym
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir -p yRsn6/GzrxV/k3Wti/E6wym[K[K[K[K[KEg1NV
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ tree -d yRsn6
+[?2004l
+[01;34myRsn6[0m
 ├── [01;34mGzrxV[0m
 │   ├── [01;34mk3Wti[0m
 │   │   ├── [01;34mE6wym[0m
@@ -92,23 +106,70 @@ drwxrwxr-x 4 quanmh quanmh 4096 Oct 24 20:29 [01;34mZyVth[0m
 
 12 directories
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ tar -xvf task3.tar.gz
-[?2004lsecret_file
+[?2004l
+secret_file
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ cd yRsn6
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ pwd
-[?2004l/home/quanmh/Desktop/yRsn6
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ pwd
+[?2004l
+/home/quanmh/Desktop/yRsn6
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ touch fie[Kle_![K1 file_2 filr[Ke_3
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat[K[K[Knano file_![K1
-[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_1                                   [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h[2dM[?25l[?12l[?25hy[?25l[?12l[?25h [?25l[?12l[?25hn[?25l[?12l[?25ha[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hQ[?25l[?12l[?25hU[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hu[?25l[22d[K[?12l[?25h[2;14Ha[?25l[?12l[?25hn[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: file_1(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_![K1
-[?2004lMy name is Quan
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat[K[K[Knano file_![K1
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_1                                   [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h
+[2dM[?25l[?12l[?25hy[?25l[?12l[?25h [?25l[?12l[?25hn[?25l[?12l[?25ha[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hQ[?25l[?12l[?25hU[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hu[?25l
+[22d[K[?12l[?25h[2;14Ha[?25l[?12l[?25hn[?25l
+[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K
+[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l
+[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File
+[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse
+[22d(B[0;7mFile Name to Write: file_1(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m
+[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_![K1
+[?2004l
+My name is Quan
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_1[1@nano[C[C[C[C[C[C[C[K2
-[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_2                                   [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h[2dI[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hm[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h9[?25l[?12l[?25h [?25l[?12l[?25hy[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: file_2(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat[K[K[Knano file_2[1Pcat file_1[K2
-[?2004lI am 19 years old
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_2                                   [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h
+[2dI[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hm[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h9[?25l[?12l[?25h [?25l[?12l[?25hy[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l
+[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K
+[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l
+[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File
+[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse
+[22d(B[0;7mFile Name to Write: file_2(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m
+[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat[K[K[Knano file_2[1Pcat file_1[K2
+[?2004l
+I am 19 years old
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_2[1@nano[C[C[C[C[C[C[C[K3
-[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_3                                   [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h[2di[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h[K[?25l[?12l[?25hI[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hl[?25l[22d[K[?12l[?25h[2;4Ho[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hP[?25l[?12l[?25hy[?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hL[?25l[?12l[?25hI[?25l[?12l[?25hn[?25l[?12l[?25hu[?25l[?12l[?25hx[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hy[?25l[?12l[?25hx[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hu[?25l[?12l[?25hx[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: file_3(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_3
-[?2004lI love Linux
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         file_3                                   [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h
+[2di[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h[K[?25l[?12l[?25hI[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hl[?25l
+[22d[K[?12l[?25h[2;4Ho[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hP[?25l[?12l[?25hy[?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hL[?25l[?12l[?25hI[?25l[?12l[?25hn[?25l[?12l[?25hu[?25l[?12l[?25hx[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hy[?25l[?12l[?25hx[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hu[?25l[?12l[?25hx[?25l
+[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K
+[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l
+[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File
+[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse
+[22d(B[0;7mFile Name to Write: file_3(B[m[?12l[?25h[?25l[33G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m
+[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cat file_3
+[?2004l
+I love Linux
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cp file_1 copy_name
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ ls -l
-[?2004ltotal 24
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ ls -l
+[?2004l
+total 24
 -rw-rw-r-- 1 quanmh quanmh   16 Oct 24 20:41 copy_name
 -rw-rw-r-- 1 quanmh quanmh   16 Oct 24 20:39 file_1
 -rw-rw-r-- 1 quanmh quanmh   18 Oct 24 20:40 file_2
@@ -116,17 +177,24 @@ drwxrwxr-x 4 quanmh quanmh 4096 Oct 24 20:29 [01;34mZyVth[0m
 drwxrwxr-x 4 quanmh quanmh 4096 Oct 24 20:37 [0m[01;34mGzrxV[0m
 drwxrwxr-x 3 quanmh quanmh 4096 Oct 24 20:34 [01;34mThhYO[0m
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ ms [K[Kv file_@[K2 ./ThhYO/new_name_2
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ rm -rf file_3
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ find . -type f -name '*[0-9]' -delete
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ ls -l
-[?2004ltotal 12
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ rm -rf file_3
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ find . -type f -name '*[0-9]' -delete
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ ls -l
+[?2004l
+total 12
 -rw-rw-r-- 1 quanmh quanmh   16 Oct 24 20:41 copy_name
 drwxrwxr-x 4 quanmh quanmh 4096 Oct 24 20:37 [0m[01;34mGzrxV[0m
 drwxrwxr-x 3 quanmh quanmh 4096 Oct 24 20:43 [01;34mThhYO[0m
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ [7mtar -czvf /home/quanmh/Desktop/my_new_achive.tar.[27m[7mg[27m[7mz /home/quanmh/Desktop/E2JsV [27m
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctar -czvf /home/quanmh/Desktop/my_new_achive.tar.gz /home/quanmh/Desktop/E2JsV
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[KyRsn6
-[?2004ltar: Removing leading `/' from member names
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctar -czvf /home/quanmh/Desktop/my_new_achive.tar.gz /home/quanmh/Desktop/E2JsV
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[KyRsn6
+[?2004l
+tar: Removing leading `/' from member names
 /home/quanmh/Desktop/yRsn6/
 /home/quanmh/Desktop/yRsn6/ThhYO/
 /home/quanmh/Desktop/yRsn6/ThhYO/Tqkan/
@@ -141,11 +209,32 @@ drwxrwxr-x 3 quanmh quanmh 4096 Oct 24 20:43 [01;34mThhYO[0m
 /home/quanmh/Desktop/yRsn6/GzrxV/k3Wti/E6wym/
 /home/quanmh/Desktop/yRsn6/GzrxV/k3Wti/Eg1NV/
 [?2004h]0;quanmh@Ubuntu: ~/Desktop/yRsn6[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop/yRsn6[00m$ cd -
-[?2004l/home/quanmh/Desktop
+[?2004l
+/home/quanmh/Desktop
 [?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ cat secret_file
-[?2004lСледуй за белым кроликом.[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir[K[K[K[K[Ktouch answer_question
-[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ nani[Ko answer_question
-[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                     answer_question                              [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;52H(B[0;7m*[22d(B[m[K[1;79H[2d1. Какой ключ используется чтобы создать архив? Ключ: -c[?12l[?25h[?25l[3d[?12l[?25h[?25l2. Какой ключ используется чтобы извлечь архив? Ключ: -x[4d3. Какой ключ используется для выбора формата компрессии? Ключ: -z[5d4. Какой ключ используется для установки имени архива/директории? Ключ: -f[?12l[?25h[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: answer_question(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;52H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 4 lines ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ exit
-[?2004lexit
+[?2004l
+Следуй за белым кроликом.[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ mkdir[K[K[K[K[Ktouch answer_question
+[?2004l
+[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ nani[Ko answer_question
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                     answer_question                              [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;52H(B[0;7m*
+[22d(B[m[K[1;79H
+[2d1. Какой ключ используется чтобы создать архив? Ключ: -c[?12l[?25h[?25l
+[3d[?12l[?25h[?25l2. Какой ключ используется чтобы извлечь архив? Ключ: -x
+[4d3. Какой ключ используется для выбора формата компрессии? Ключ: -z
+[5d4. Какой ключ используется для установки имени архива/директории? Ключ: -f[?12l[?25h[?25l
+[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K
+[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l
+[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File
+[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse
+[22d(B[0;7mFile Name to Write: answer_question(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;52H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 4 lines ](B[m
+[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;quanmh@Ubuntu: ~/Desktop[01;32mquanmh@Ubuntu[00m:[01;34m~/Desktop[00m$ exit
+[?2004l
+exit
 
 Script done on 2024-10-24 20:53:41+00:00 [COMMAND_EXIT_CODE="0"]
+
