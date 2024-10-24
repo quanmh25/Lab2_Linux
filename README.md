@@ -40,7 +40,7 @@
 1. Запустите виртуальную машину и дождитесь загрузки ОС. 
 1. Откройте терминал. Это можно сделать с помощью основного меню или сочетанием клавиш **Ctrl+Alt+T**. Для запуска через основное меню нажмите на  Menu->System Tools->Mate Terminal (см. Рисунок 1). 
 <p align="center">
-  <img src="patterns_1.png" width="480" title="Patterns">
+  <img src="pattern_1.png" width="480" title="Pattern_1">
 </p>
 ![](Aspose.Words.6f6d3255-36fc-49f7-8bce-7313009fea64.001.png)
 
